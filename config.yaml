@@ -1,0 +1,5 @@
+base:
+  UPLOAD_FOLDER: static/
+  convert_path: converted_files/page_0.jpg
+  extraction_model: D:/Company Project/TrainedWeight/Flask_Api_deployment/model--impira--layoutlm-invoices
+  classification_model: D:/Company Project/TrainedWeight/Flask_Api_deployment/model--nielsr--donut-base-finetuned-docvqa
